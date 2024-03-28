@@ -1,0 +1,40 @@
+h1 { 
+    background-color:aqua;
+    color:brown
+
+}
+
+    ul { 
+        background-color:rgb(0, 255, 255)
+
+
+    }
+    .Real{  
+        font-size: x-large
+
+    }
+     #boogers{ 
+              font-style: italic;
+
+
+     }
+
+     .header{
+       text-align: center;
+        color:red;
+
+        font-size: 40px;
+        font-family:fantasy;
+       
+     }
+     h2:hover {
+       color:skyblue;
+
+     }
+     .image{  
+            text-align: center;
+ 
+
+     }
+
+     
